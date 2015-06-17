@@ -1,0 +1,7 @@
+git clone https://github.com/gespejo/random
+cd random
+vi README.md LICENSE.md
+git add .
+git commit -m 'anyadir fichero readme y license'
+git push origin master
+
